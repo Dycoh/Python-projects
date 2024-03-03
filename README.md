@@ -1,3 +1,3 @@
 # python projects
 learning python
-- alot to learn
+- NO.1 Arithmetic arranger
