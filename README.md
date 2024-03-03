@@ -1,4 +1,3 @@
-# hello-world
-first try at git hub
-- 1st trial
+# python projects
+learning python
 - alot to learn
